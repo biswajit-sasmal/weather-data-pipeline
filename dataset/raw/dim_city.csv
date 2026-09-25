@@ -1,0 +1,11 @@
+city_id,city_name,latitude,longitude,country_code,timezone
+1,Kolkata,22.56263,88.36304,IN,Asia/Kolkata
+2,Delhi,28.65195,77.23149,IN,Asia/Kolkata
+3,Mumbai,19.07283,72.88261,IN,Asia/Kolkata
+4,Bengaluru,12.97194,77.59369,IN,Asia/Kolkata
+5,Pune,18.51957,73.85535,IN,Asia/Kolkata
+6,Surat,21.19594,72.83023,IN,Asia/Kolkata
+7,Chennai,13.08784,80.27847,IN,Asia/Kolkata
+8,Ahmedabad,23.02579,72.58727,IN,Asia/Kolkata
+9,Hyderabad,17.38405,78.45636,IN,Asia/Kolkata
+10,Jaipur,26.91962,75.78781,IN,Asia/Kolkata

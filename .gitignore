@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# Generated raw data
+dataset/raw/*.csv
+!dataset/raw/dim_city.csv
+!dataset/raw/dim_weather.csv
+
+# Generated processed data
+dataset/processed/*.csv
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
